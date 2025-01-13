@@ -28,7 +28,8 @@ def calculate_score(home_times: team_times, away_times: team_times) -> tuple[int
     pass
 
 # this function takes user input to populate the home and away scores dictionaries
-def get_input(): 
+def get_input(home_times: team_times, away_times: team_times): 
+    print("")
     pass
 
 def main():
